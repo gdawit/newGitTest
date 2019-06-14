@@ -1,1 +1,2 @@
-python code to play game
+add python code to play game
+then commit it to master
