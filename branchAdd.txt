@@ -1,2 +1,3 @@
 add python code to play game
 then commit it to master
+also add some instruction
